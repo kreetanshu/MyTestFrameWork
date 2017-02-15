@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33560" started-at="2017-02-06T18:24:57Z" finished-at="2017-02-06T18:25:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33560" started-at="2017-02-06T18:24:57Z" finished-at="2017-02-06T18:25:31Z">
+      <class name="com.actitime.userTest.EditUserTest_01">
+        <test-method status="PASS" signature="operBrowser()[pri:0, instance:com.actitime.userTest.EditUserTest_01@d7b1517]" name="operBrowser" is-config="true" duration-ms="18907" started-at="2017-02-06T23:54:57Z" finished-at="2017-02-06T23:55:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operBrowser -->
+        <test-method status="PASS" signature="EditAllUserTc_01()[pri:0, instance:com.actitime.userTest.EditUserTest_01@d7b1517]" name="EditAllUserTc_01" duration-ms="14600" started-at="2017-02-06T23:55:16Z" finished-at="2017-02-06T23:55:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditAllUserTc_01 -->
+      </class> <!-- com.actitime.userTest.EditUserTest_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
